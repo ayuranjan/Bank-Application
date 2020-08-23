@@ -4,7 +4,7 @@ Created a banking application in Java to manage customer inventories along with 
 We Read a csv file of name , social security number (ssn) , account type and initial deposit and store them . There are 2 types of account - saving and checking which share some common features and some specific  feautures . Both account will use an interface that determines the interest rate.
 
 
-Problem Statement :
+
 * Read a csv file of name , social security number (ssn) , account type and initial deposit .
 * Use a proper data structure to hold all these account .
 * Both saving and checking share following property : -  1. deposit() 2.withdraw()  3. show_info()
